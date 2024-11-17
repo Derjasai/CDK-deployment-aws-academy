@@ -76,21 +76,32 @@ Cuando este comando termine de ejecutarse se generará un Link en la consola, es
 # Evidencias
 
 CDK list
+
 ![img_2.png](imgs/cdk-list.png)
 
+
 CDK synth
+
 ![img_1.png](imgs/cdk-synth.png)
 
+
 Deployment mediante consola
+
 ![img.png](imgs/deploy-console.png)
 
+
 Creación de ambos cloud formation
+
 ![img.png](imgs/cloud-formation.png)
 
+
 Despliegue actualizando mensaje
+
 ![img_4.png](imgs/updating-message.png)
 
+
 Mensaje personalizado consultando la URL
+
 ![img_3.png](imgs/url-consult.png)
 
 # Version
